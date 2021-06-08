@@ -19,7 +19,7 @@ int main()
 		{
 			if(j>=k)
 			{
-				if(s<n)
+				if(s<n-1)
 				{
 					for(int p=mid;p<=s;p++)
 					{
